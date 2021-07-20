@@ -48,5 +48,5 @@ MIT - ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https
 # Extras
 
 * Links:
-  - [Repo page](https://github.com/ForestW70/hw13ecommercebackend)
-  - [Deployed page](https://github.com/ForestW70/hw13ecommercebackend)
+  - [Repo page](https://github.com/ForestW70/hw0htmlfanpage)
+  - [Deployed page](https://forestw70.github.io/hw0htmlfanpage/)
